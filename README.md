@@ -1,4 +1,4 @@
-## [솔브냥](https://www.solve-nyang.com/)  👋
+## [솔브냥](https://www.solve-nyang.com/)  😼
 ![image](https://api.solve-nyang.com/compose/foxrain119)
 
 
